@@ -10,15 +10,15 @@ html,body {
   border-radius: 20px;
   padding: 10px;
   margin: 5px;
-  height: 40%;
-  background: white;
+  height: 30%;
+  background: rgb(240, 240, 240);
 }
 
 #btn {
-  font-size: 2em;
+  font-size: x-large;
 }
 
-#btn::after {
+#btn::before {
   content: "▶";
   color: red;
 }
